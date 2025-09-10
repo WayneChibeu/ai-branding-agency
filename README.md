@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Digital Branding Agency (Assignment)
+# AI-Powered Digital Branding Agency
 
 This repository contains my submission for the **AI-Powered Digital Branding Agency** assignment.  
 The project demonstrates how AI tools like ChatGPT and Canva Magic Media can be used to create branding assets, marketing content, and client outreach strategies.  

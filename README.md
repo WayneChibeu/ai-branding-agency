@@ -73,8 +73,14 @@ NeuraBrand Team
 ## 📂 Project Structure
 
 **ai-branding-agency** → contains all assignment files  
-- `README.md` → main repor  
-- `assets/` → logos, social posts, mockups, pitch deck  
+ai-branding-agency/
+┣ 📄 README.md
+┣ 📂 assets/
+┃   ┣ logo.png
+┃   ┣ social-post.png
+┃   ┣ banner.png
+┃   ┗ pitch-deck.pdf
+  
   
 ---
 

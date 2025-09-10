@@ -67,10 +67,10 @@ Looking forward to connecting,
 ---
 
 ## 🎨 Assets  
-- ![Logo](./assets/logo.png)  
-- ![Social Post](./assets/social-post.png)  
-- ![Banner](./assets/banner.png)  
-- [📑 Pitch Deck PDF](./assets/pitch-deck.pdf)  
+ ![Logo](./assets/logo.png)  
+ ![Social Post](./assets/social-post.png)  
+ ![Banner](./assets/banner.png)  
+ [📑 Pitch Deck PDF](./assets/pitch-deck.pdf)  
 
 ---
 

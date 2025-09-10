@@ -54,7 +54,7 @@ In today’s fast-paced market, standing out is harder than ever. That’s why w
 We’d love to show you how AI-driven branding can give your business a competitive edge. Let’s set up a quick call to discuss your goals and how NeuraBrand can help you achieve them.  
 
 Looking forward to connecting,  
-[Your Name]  
+[My Name]  
 *NeuraBrand Team*  
 
 ✅ **Pitch Deck (Concept)**  
